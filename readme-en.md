@@ -1,7 +1,7 @@
 <table align="right">
   <tr>
     <td>
-      <a href="readme-en.md">🇺🇸 English</a>
+      <b><a href="readme-en.md">🇺🇸 English</a></b>
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
 </div>
 
 > **If the video has any errors, reload the page!**<br>
-> Access the project online **[HERE](https://luk4x-apple-store.vercel.app)**
+> It cannot be deployed just for copyright reasons.
 
 ## 🚀 Technologies Used
 
